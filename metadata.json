@@ -1,0 +1,6 @@
+{
+  "name": "PCR Live Broadcast & Esports Control Room",
+  "description": "Production control room and real-time streaming HUD overlay for battle royale and esports tournaments with live scoring, roster management, CSV import, and OBS broadcast sync.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
